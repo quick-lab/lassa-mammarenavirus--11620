@@ -1,0 +1,22 @@
+2023-08-30 at 14:59:05 | INFO | Creating the Mismatch Database
+2023-08-30 at 14:59:18 | INFO | Created: /Users/kentcg/schemes/lassa-v2/lassa-v2-0.02/work/mismatch.db
+2023-08-30 at 14:59:18 | INFO | Read in MSA: L.align.mod.fasta	seqs:305	cols:9027
+2023-08-30 at 14:59:19 | INFO | Read in MSA: S.align.fasta	seqs:587	cols:4560
+2023-08-30 at 14:59:42 | INFO | L.align.mod.fasta: digested to 1030 FKmers and 926 RKmers
+2023-08-30 at 15:01:22 | INFO | S.align.fasta: digested to 543 FKmers and 574 RKmers
+2023-08-30 at 15:01:26 | INFO | L.align.mod.fasta: Generated 29595 possible amplicons
+2023-08-30 at 15:01:28 | INFO | S.align.fasta: Generated 16235 possible amplicons
+2023-08-30 at 15:01:28 | INFO | Added first amplicon for L.align.mod.fasta: 92	1306	1
+2023-08-30 at 15:01:28 | INFO | Added overlapping amplicon for L.align.mod.fasta: 1219	2443	2
+2023-08-30 at 15:01:28 | INFO | Added overlapping amplicon for L.align.mod.fasta: 2282	3447	1
+2023-08-30 at 15:01:28 | INFO | Added overlapping amplicon for L.align.mod.fasta: 3281	4470	2
+2023-08-30 at 15:01:28 | INFO | Added overlapping amplicon for L.align.mod.fasta: 4315	5471	1
+2023-08-30 at 15:01:28 | INFO | Added overlapping amplicon for L.align.mod.fasta: 5315	6545	2
+2023-08-30 at 15:01:29 | INFO | Added overlapping amplicon for L.align.mod.fasta: 6461	7669	1
+2023-08-30 at 15:01:29 | INFO | Added overlapping amplicon for L.align.mod.fasta: 7167	8321	2
+2023-08-30 at 15:01:29 | INFO | Added overlapping amplicon for L.align.mod.fasta: 7803	9025	1
+2023-08-30 at 15:01:29 | INFO | Added first amplicon for S.align.fasta: 217	1429	2
+2023-08-30 at 15:01:29 | INFO | Added overlapping amplicon for S.align.fasta: 1237	2437	1
+2023-08-30 at 15:01:29 | INFO | Added overlapping amplicon for S.align.fasta: 2352	3467	2
+2023-08-30 at 15:01:29 | INFO | Added overlapping amplicon for S.align.fasta: 3018	4235	1
+2023-08-30 at 15:01:29 | INFO | Writting output files
